@@ -1,4 +1,5 @@
 # Space-Invaders
+Made a game similar to the retero game Space Invaders
 How to run code: grade run
 
 
