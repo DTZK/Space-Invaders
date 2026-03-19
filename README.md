@@ -1,5 +1,5 @@
 # Space-Invaders
-How to run code: grade run, no quirks
+How to run code: grade run
 
 
 Remarks: Game lags sometimes
@@ -29,5 +29,5 @@ Builder
 Director: Director
 Builder: Builder
 ConcreteBuilders: AlienBuilder, BunkerBuilder
-Product:Alien, Bunker
-Client:GameEngine
+Product: Alien, Bunker
+Client: GameEngine
